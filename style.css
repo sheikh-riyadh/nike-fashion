@@ -1,0 +1,48 @@
+.nike-w-25 {
+    width: 25%;
+}
+
+.nike-w-30 {
+    width: 30%;
+}
+
+.nike-w-35 {
+    width: 35%;
+}
+
+.nike-w-40 {
+    width: 40%;
+}
+
+.nike-w-45 {
+    width: 45%;
+}
+
+.nike-w-50 {
+    width: 50%;
+}
+
+.nike-w-55 {
+    width: 55%;
+}
+
+.nike-w-60 {
+    width: 60%;
+}
+
+.nike-text-color {
+    color: #FA804C;
+}
+
+.nike-bg-color {
+    background-color: #FFF9F4;
+}
+
+.nike-btn-color {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+
+.nike-product-img-bg {
+    background-color: #F1F1F1;
+}
